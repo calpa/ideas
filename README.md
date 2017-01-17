@@ -10,3 +10,4 @@
     * Animated SVG Icons
     * Filp Card
     * Web Development Skill Tree
+    * Clicker Game
