@@ -12,3 +12,4 @@
     * Web Development Skill Tree
     * Clicker Game
     * Chat bot
+    * Cover
