@@ -13,3 +13,5 @@
     * Clicker Game
     * Chat bot
     * Cover
+    * Learn Data
+    * Learn HTTP
