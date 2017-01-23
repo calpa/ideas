@@ -13,5 +13,5 @@
     * Clicker Game
     * Chat bot
     * Cover
-    * Learn Data
-    * Learn HTTP
+    * Introduction to Data Visuialization
+    * Introduction to HTTP
