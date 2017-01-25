@@ -24,4 +24,4 @@
     * Cover
     * Introduction to Data Visuialization
     * Introduction to HTTP
-    
+    * Hexo Theme
