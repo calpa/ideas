@@ -27,3 +27,4 @@
     * Hexo Theme
     * Introduction to Unit Testing (JS)
     * SVG Map -- Hong Kong
+    * Facebook Video Emoji Assistant
