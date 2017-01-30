@@ -29,3 +29,4 @@
     * SVG Map -- Hong Kong
     * Facebook Video Emoji Assistant
     * SICP
+    * Introduction to Machine Learning
