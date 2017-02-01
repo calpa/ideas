@@ -30,3 +30,4 @@
     * Facebook Video Emoji Assistant
     * SICP
     * Introduction to Machine Learning
+    * Habit Tracker (Mobile App)
