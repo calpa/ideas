@@ -14,7 +14,7 @@
 		![chat](https://github.com/calpa/Digital-Aperture/blob/master/images/chat-1.png)
     
 * Dreaming (zzz)
-    * Tomato Timer
+	* Pomodoro Timer
     * Music Player
     * Nendo - Nendoroid 配件合成器
     * Animated SVG Icons
