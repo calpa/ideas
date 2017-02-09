@@ -4,6 +4,7 @@
 * Done
 
 * In Progress
+	* [SVG Map - Hong Kong](http://codepen.io/calpa/full/zNEXXx/)
 	* [Digital Aperture](https://github.com/calpa/Digital-Aperture)
 
 		透過Node.js建立的Chat bot，已連接到facebook messenger。
@@ -26,7 +27,6 @@
     * Introduction to HTTP
     * Hexo Theme
     * Introduction to Unit Testing (JS)
-    * SVG Map -- Hong Kong
     * Facebook Video Emoji Assistant
     * SICP
     * Introduction to Machine Learning
