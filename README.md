@@ -35,3 +35,4 @@
     * Atom
     * Calpa's Color Theme
     * From Zero To One
+    * Anime Data Visualization
