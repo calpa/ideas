@@ -32,7 +32,7 @@
     * Introduction to Machine Learning
     * Habit Tracker (Mobile App)
     * Awesome Interview
-    * Atom
+    * Atom - kancolle-clock
     * Calpa's Color Theme
     * From Zero To One
 	* Anime Data Visualization
