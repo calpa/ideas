@@ -4,6 +4,9 @@
 * Done
 
 * In Progress
+	* [atom-kancolle](https://github.com/calpa/atom-kancolle)
+	
+		Atom會在整點(每小時00分)時播放艦娘的報時語音。
 	* [SVG Map - Hong Kong](http://codepen.io/calpa/full/zNEXXx/)
 	* [Pomodoro Timer](http://codepen.io/calpa/full/xgpVOw/)
 	* [Digital Aperture](https://github.com/calpa/Digital-Aperture)
@@ -32,7 +35,6 @@
     * Introduction to Machine Learning
     * Habit Tracker (Mobile App)
     * Awesome Interview
-    * Atom - kancolle-clock
     * Calpa's Color Theme
     * From Zero To One
 	* Anime Data Visualization
