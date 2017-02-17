@@ -39,3 +39,4 @@
     * From Zero To One
 	* Anime Data Visualization
 	* Waifu Drawer
+	* Todo App (React-Native)
