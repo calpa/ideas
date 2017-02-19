@@ -40,3 +40,4 @@
 	* Anime Data Visualization
 	* Waifu Drawer
 	* Todo App (React-Native)
+	* Event Crawler
