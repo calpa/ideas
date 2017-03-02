@@ -43,4 +43,5 @@
 	* Event Crawler
 	* Front-End Developer's Road-Map
 	* Simple Linux
+	* Learn Git
 	
