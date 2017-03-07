@@ -8,6 +8,11 @@
 	
 		Atom會在整點(每小時00分)時播放艦娘的報時語音。
 	* [SVG Map - Hong Kong](http://codepen.io/calpa/full/zNEXXx/)
+	* [non-cs-interview](https://github.com/calpa/non-cs-interview)
+	
+		如果你就讀與編程沒有關係的科目，而你又想進入編程的世界的話。無論在找實習或者長期的工作，都會遇到不少阻力。
+		
+		例如，幾乎每一次面試，你都會被問到那些問題。。。
 	* [Pomodoro Timer](http://codepen.io/calpa/full/xgpVOw/)
 	* [Digital Aperture](https://github.com/calpa/Digital-Aperture)
 
@@ -34,7 +39,6 @@
     * SICP
     * Introduction to Machine Learning
     * Habit Tracker (Mobile App)
-    * Awesome Interview
     * Calpa's Color Theme
     * From Zero To One
 	* Anime Data Visualization
@@ -44,4 +48,3 @@
 	* Front-End Developer's Road-Map
 	* Simple Linux
 	* Learn Git
-	
