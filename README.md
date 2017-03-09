@@ -49,3 +49,4 @@
 	* Simple Linux
 	* Learn Git
 	* Sleeping Quality App
+	* Word Count
