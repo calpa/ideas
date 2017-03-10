@@ -1,5 +1,5 @@
 # Ideas
-> 看[issue](https://github.com/calpa/ideas/issues)
+> 我有一點想法：[issue](https://github.com/calpa/ideas/issues)
 
 * Done
 
