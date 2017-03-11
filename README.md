@@ -50,3 +50,4 @@
 	* Learn Git
 	* Sleeping Quality App
 	* Word Count
+	* Story of a self learner
