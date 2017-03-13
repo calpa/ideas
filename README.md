@@ -52,3 +52,4 @@
 	* Word Count
 	* Story of a self learner
 	* Magic of Time (Time Management)
+	* The Spirit of University Education
