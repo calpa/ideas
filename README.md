@@ -56,3 +56,4 @@
 	* Learn Scheme
 	* Awesome realtime app
 	* Learn Big Data
+	* Open Data in Hong Kong
