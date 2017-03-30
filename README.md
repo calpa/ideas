@@ -58,3 +58,4 @@
 	* Learn Big Data
 	* Open Data in Hong Kong
 	* heroku database
+	* Machine Learning in Chemical Engineering
