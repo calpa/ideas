@@ -61,3 +61,4 @@
 	* Machine Learning in Chemical Engineering
 	* Front End Collection
 	* CSS Framework
+	* Code Quality
