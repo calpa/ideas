@@ -64,3 +64,4 @@
 	* Code Quality
 	* Redux
 	* Clean Code
+	* Important Decision Helper
