@@ -65,3 +65,4 @@
 	* Redux
 	* Clean Code
 	* Important Decision Helper
+	* Heroku-WebSocket
