@@ -67,3 +67,4 @@
 	* Important Decision Helper
 	* Heroku-WebSocket
 	* Clock
+	* Quote Generator
