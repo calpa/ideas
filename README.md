@@ -69,3 +69,4 @@
 	* Clock
 	* Quote Generator
 	* Online Chat Room
+	* Job Market Analysis
