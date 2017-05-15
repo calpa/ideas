@@ -4,6 +4,7 @@
 * Done
 
 * In Progress
+	* [Joysound Karaoke Collection](https://github.com/calpa/joysound-collection)
 	* [atom-kancolle](https://github.com/calpa/atom-kancolle)
 	
 		Atom會在整點(每小時00分)時播放艦娘的報時語音。
@@ -70,4 +71,4 @@
 	* Quote Generator
 	* Online Chat Room
 	* Job Market Analysis
-	* Karaoke Collection
+	* Learn Computer Music Production
