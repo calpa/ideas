@@ -72,3 +72,4 @@
 	* Online Chat Room
 	* Job Market Analysis
 	* Learn Computer Music Production
+	* Learn MongoDB
