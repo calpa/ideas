@@ -4,15 +4,16 @@
 * Done
 
 * In Progress
+	* [Calpa's Blog](https://calpa.me)
 	* [Joysound Karaoke Collection](https://github.com/calpa/joysound-collection)
 	* [atom-kancolle](https://github.com/calpa/atom-kancolle)
-	
+
 		Atom會在整點(每小時00分)時播放艦娘的報時語音。
 	* [SVG Map - Hong Kong](http://codepen.io/calpa/full/zNEXXx/)
 	* [non-cs-interview](https://github.com/calpa/non-cs-interview)
-	
+
 		如果你就讀與編程沒有關係的科目，而你又想進入編程的世界的話。無論在找實習或者長期的工作，都會遇到不少阻力。
-		
+
 		例如，幾乎每一次面試，你都會被問到那些問題。。。
 	* [Pomodoro Timer](http://codepen.io/calpa/full/xgpVOw/)
 	* [Digital Aperture](https://github.com/calpa/Digital-Aperture)
@@ -23,7 +24,7 @@
 
 		接收來自外界的信息並提示用戶該信息內容、自動讀取database資料。
 		![chat](https://raw.githubusercontent.com/calpa/Digital-Aperture/master/images/chat-1.png)
-    
+
 * Dreaming (zzz)
     * Music Player
     * Nendo - Nendoroid 配件合成器
@@ -74,3 +75,4 @@
 	* Learn Computer Music Production
 	* Learn MongoDB
 	* markdown-galgame
+	* free programming education platform
